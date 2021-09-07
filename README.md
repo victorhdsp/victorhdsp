@@ -1,11 +1,4 @@
-<header style="background-color: #000;"> 
-  texte
-</header>
-  
-  
-  
-<!--
- # Hi there 👋, my name is Victor. ### PT-BR
+# Hi there 👋, my name is Victor. ### PT-BR
 
 ## I'm currently learning React and typescript, but i training HTML,CSS and JS.
 I like the creative part in web design, and i initiated in programmation why i'm felt limited in wordpress.
@@ -17,7 +10,7 @@ My idea in rich text was creating but not using execCommand, I can create editab
  ##How to reach me:
  ### i'm have email: victorhugods.pereira@gmail.com
  ### telegram or whatsapp: +55(21)96673-5323
--->
+
   
 <!--
 **Lkt226/Lkt226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
