@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Victor. ### PT-BR
+# Hi there 👋, my name is Victor. PT-BR
 
 ## I'm currently learning React and typescript, but i training HTML,CSS and JS.
 I like the creative part in web design, and i initiated in programmation why i'm felt limited in wordpress.
