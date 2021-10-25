@@ -9,7 +9,7 @@ My idea in rich text was creating but not using execCommand, I can create editab
   
  ##How to reach me:
  ### i'm have email: victorhugods.pereira@gmail.com
- ### telegram or whatsapp: +55(21)96673-5323
+ ### telegram or whatsapp: +55(21)98930-6866
 
   
 <!--
