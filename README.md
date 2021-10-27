@@ -1,16 +1,34 @@
-# Hi there 👋, my name is Victor. PT-BR
+# Eae? meu nome é Victor. PT - BR.
+## Nesse momento eu estou avoluindo em Vue e consumo/criação de api.
+Eu gosto bastante da parte criativa de uma criação, mas gosto ainda mais de por a mão na massa e montar as coisas na prática.
 
-## I'm currently learning React and typescript, but i training HTML,CSS and JS.
-I like the creative part in web design, and i initiated in programmation why i'm felt limited in wordpress.
-
-## My nemesis is create a rich text 😄
-Never was soo hard create a rich text in JS, 10x0 rich text for my. 
-My idea in rich text was creating but not using execCommand, I can create editable <div> and transform all text, with italics() for example, or one word in div with split() and italics(), but if I want transform 1 letter?, i'm split all letter in a text? i trying this, but this create bug, very bugs. if i transform 1 letter and other not, after select all text and transform, eventually he transform html, and this generated "noise" in text. and is possible erase but is a bug, in my face, calling my name, cursing my family.
+## Projetos,
+* background for job, é pra ser um web app de produção feito em ReactJS, ele contem ou vai conter:
+  * [x] To do list
+  * [x] Timers
+  * [ ] ? Criação de modulos
+  * [ ] ? Importação de modulos
   
- ##How to reach me:
- ### i'm have email: victorhugods.pereira@gmail.com
- ### telegram or whatsapp: +55(21)98930-6866
+* Pharma view, pharma view é um desafio de uma plataforma a "coodesh" o objetivo do projeto é criar um projeto de uma tabela de usuarios, eu usei React e uma api pública,
+  * nas regras pede pra usar um framework de js, um de css e consumir essa api.
+  * completei todos os "extras" que colocaram na plataforma, mas eu acabei usando só o React.
+  * eventualmente atualizo ele com tailwind pro desafio ficar completo.
 
+* Eleva Skill, é um projeto que veio de um hackathon que participei o hackaçu, eu fazia parte da equipe 034, eu to transformando o app que desenvolvemos no hackaçu em uma WPA para fins de estudos, estou usando o VueJS, Firebase e tailwind.
+  * A ideia é formar um ambiente onde as pessoas podem se qualificar, se colocar no mercado e subir nas suas carreiras em um mesmo lugar.
+  * [ ] Versão do usuario.
+  * [ ] Versão empresa.
+
+## Minhas principais ferramentas são:
+* VUEJS_____________**
+* REACTJS___________*
+* JS / HTML / CSS___***
+* Tailwind__________*
+* Firebase__________**
+
+# Como me encontra?
+* Meu e-mail: victrohugods.pereira@gmail.com
+* whatssap/telefone: +55 (21) 98930-6866
   
 <!--
 **Lkt226/Lkt226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
