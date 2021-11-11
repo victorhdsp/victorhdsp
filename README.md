@@ -1,52 +1,56 @@
-![Metrics](https://metrics.lecoq.io/lkt226?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&screenshot=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=true&languages.analysis.timeout=10&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&screenshot.title=Screenshot&screenshot.selector=body&screenshot.background=true&config.timezone=Etc%2FGMT%2B3)
-
-### Eae, eu sou o Victor. 😁
-
-- 😎 Dev Front End (JR)
-- 🌱 VUE.JS && Tailwind
-- ♂️ Pronome: Ele/Dele 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkt226&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkt226&layout=compact&langs_count=10&exclude_repo=dotnet-dio-learn)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+   <td colspan="2" align="left">
+    <img src="https://user-images.githubusercontent.com/83098581/141328023-a84bd798-33ae-4d1e-a400-c620cf84d95a.png"/>
+   </td>
+  <tr/>
+ 
+ <tr>
+    <td align="left" width="50%">
+     <h3>😎 Dev Front End (JR)</h3>
+    </td>
+    <td align="center"  width="50%">
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
+     <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="30px" height="30px"></a>
+     <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="30px" height="30px"></a>
+     <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>
+     <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="30px" height="30px"></a>
+     <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="30px" height="30px"></a>
+     <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="30px" height="30px"></a>
+     <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="30px" height="30px"></a>
+    </td>
+  </tr>
+ 
+  <tr>
+    <td align="left" width="50%">
+     <p>Trabalhei com bastante tempo com modelagem 3D (ArchViz) para o seguimento de arquitetura, mas sempre gostei de programação e tecnologia, durante a pandemia do covid, aproveitei a oportunidade para poder estudar e começar minha transição de carreira para Front-end.</p>
+     <h4>Atualmente curso Analise e Desenvolvimento na Estacio</h4>
+    </td>
+    <td align="center"  width="50%">
+     <img height="180em" width="900" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkt226&layout=compact&langs_count=10&exclude_repo=dotnet-dio-learn"/>
+    </td>
+  </tr>
+ 
+ <tr>
+    <td align="left" width="50%" >
+     <h3 width="100%"> Onde você pode me encontrar >>></h3>
+    </td>
+    <td align="center"  width="50%">
+      <a href="https://wa.me/message/CLNBO36RPZWXI1" title="Whatsapp"><img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" alt="Whatsapp" width="30px" height="30px"></a>
+     <a href="https://www.linkedin.com/in/victorhdsp/" title="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="30px" height="30px"></a>
+     <a href="https://www.instagram.com/lkt226/" title="Instagram"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Instagram" width="30px" height="30px"></a>
+    </td>
+  </tr>
+ 
+  <tr>
+   <td colspan="2" align="center">
+    <img width="700" src="https://metrics.lecoq.io/lkt226?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT%2B3"/>
+   </td>
+  </tr>
+</table>
 
 
 <!--
-# Eae? meu nome é Victor. PT - BR.
-## Nesse momento eu estou avoluindo em Vue e consumo/criação de api.
-Eu gosto bastante da parte criativa de uma criação, mas gosto ainda mais de por a mão na massa e montar as coisas na prática.
-
-## Projetos,
-* background for job, é pra ser um web app de produção feito em ReactJS, ele contem ou vai conter:
-  * [x] To do list
-  * [x] Timers
-  * [ ] ? Criação de modulos
-  * [ ] ? Importação de modulos
-  
-* Pharma view, pharma view é um desafio de uma plataforma a "coodesh" o objetivo do projeto é criar um projeto de uma tabela de usuarios, eu usei React e uma api pública,
-  * nas regras pede pra usar um framework de js, um de css e consumir essa api.
-  * completei todos os "extras" que colocaram na plataforma, mas eu acabei usando só o React.
-  * eventualmente atualizo ele com tailwind pro desafio ficar completo.
-
-* Eleva Skill, é um projeto que veio de um hackathon que participei o hackaçu, eu fazia parte da equipe 034, eu to transformando o app que desenvolvemos no hackaçu em uma WPA para fins de estudos, estou usando o VueJS, Firebase e tailwind.
-  * A ideia é formar um ambiente onde as pessoas podem se qualificar, se colocar no mercado e subir nas suas carreiras em um mesmo lugar.
-  * [ ] Versão do usuario.
-  * [ ] Versão empresa.
-
-## Minhas principais ferramentas são:
-* VUEJS_____________**
-* REACTJS___________*
-* JS / HTML / CSS___***
-* Tailwind__________*
-* Firebase__________**
-
-# Como me encontra?
-* Meu e-mail: victrohugods.pereira@gmail.com
-* whatssap/telefone: +55 (21) 98930-6866
-  
-**Lkt226/Lkt226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
