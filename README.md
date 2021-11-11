@@ -1,3 +1,21 @@
+<!-- If you're using "master" as default branch -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+<!-- If you're using "main" as default branch -->
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+<!-- If you're using the "columns" display mode -->
+<img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+
+### Eae, eu sou o Victor. 😁
+
+- 😎 Dev Front End (JR)
+- 🌱 VUE.JS && Tailwind
+- ♂️ Pronome: Ele/Dele 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkt226&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lkt226&layout=compact&langs_count=10&exclude_repo=dotnet-dio-learn)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
 # Eae? meu nome é Victor. PT - BR.
 ## Nesse momento eu estou avoluindo em Vue e consumo/criação de api.
 Eu gosto bastante da parte criativa de uma criação, mas gosto ainda mais de por a mão na massa e montar as coisas na prática.
@@ -30,7 +48,6 @@ Eu gosto bastante da parte criativa de uma criação, mas gosto ainda mais de po
 * Meu e-mail: victrohugods.pereira@gmail.com
 * whatssap/telefone: +55 (21) 98930-6866
   
-<!--
 **Lkt226/Lkt226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
