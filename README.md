@@ -44,7 +44,7 @@
  
   <tr>
    <td colspan="2" align="center">
-    <img width="700" src="https://metrics.lecoq.io/lkt226?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT%2B3"/>
+    <img width="700" alt="O actions é bugado, recarrega a pagina por favor. S2" src="https://metrics.lecoq.io/lkt226?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Etc%2FGMT%2B3"/>
    </td>
   </tr>
 </table>
