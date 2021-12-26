@@ -1404,21 +1404,21 @@
         Most used languages
       </h3>
                 <small>
-            estimation from 8828 edited files from 183 commits
+            estimation from  edited files from  commits
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.43569342124385" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="216.43569342124385" y="0" width="59.478432103036276" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="275.91412552428017" y="0" width="50.57366327756705" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="326.4877888018472" y="0" width="50.06425438102705" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="376.55204318287423" y="0" width="47.82134866650155" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="424.3733918493758" y="0" width="27.822576848362527" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="452.1959686977383" y="0" width="5.131753209136854" height="8" fill="#da291c"/>
-                    <rect mask="url(#languages-bar)" x="457.3277219068752" y="0" width="2.672278093124843" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="161.8785259716805" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="161.8785259716805" y="0" width="84.71897469745831" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="246.5975006691388" y="0" width="70.82417111243352" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="317.42167178157234" y="0" width="64.29514348154866" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="381.71681526312096" y="0" width="37.19525600081076" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="418.91207126393175" y="0" width="29.965750487886634" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="448.8778217518184" y="0" width="5.603225378940448" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="454.48104713075884" y="0" width="5.518952869241184" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1426,32 +1426,32 @@
                 C#
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                JavaScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Elixir
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 HTML
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Vue
-              </div>
-                    <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6e4a7e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Elixir
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                JavaScript
               </div>
                     <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 CSS
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#da291c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                PostScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Vue
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Python
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                SCSS
+              </div>
+                    <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                TypeScript
               </div>
                 </div>
             </section>
