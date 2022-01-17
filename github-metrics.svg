@@ -15,20 +15,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 8995 edited files from 218 commits</small>
+                <small>estimation from 8999 edited files from 219 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.9054552057259" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="195.9054552057259" y="0" width="71.45420891827845" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="267.3596641240044" y="0" width="63.42990756369471" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.7895716876991" y="0" width="47.12987958638042" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="377.9194512740795" y="0" width="43.28520370634566" height="8" fill="#6e4a7e"/>
-                    <rect mask="url(#languages-bar)" x="421.2046549804251" y="0" width="25.6547525304647" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.8594075108898" y="0" width="7.789069578283676" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="454.6484770891735" y="0" width="5.35152291082648" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="194.8207573591191" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="194.8207573591191" y="0" width="73.60552615674887" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="268.426283515868" y="0" width="63.078706092186145" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="331.50498960805413" y="0" width="46.868928818855856" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="378.37391842691" y="0" width="43.04554030748368" height="8" fill="#6e4a7e"/>
+                    <rect mask="url(#languages-bar)" x="421.4194587343937" y="0" width="25.512706180628232" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="446.93216491502193" y="0" width="7.745942719004732" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="454.6781076340267" y="0" width="5.321892365973379" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1114,10 +1114,10 @@
                                 <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.857142857142857 0,3.8571428571428568 z"/>
                                 <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.8571428571428568 1.7,4.857142857142857 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.7142857142857135)">
+                            <g transform="translate(-1.7, 6.428571428571429)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2857142857142856 0,1.2857142857142856 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2857142857142856 1.7,2.2857142857142856 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.571428571428571 0,1.5714285714285714 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5714285714285714 1.7,2.571428571428571 z"/>
                             </g>
                         </g>
                     </g>
