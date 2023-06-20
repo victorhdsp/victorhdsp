@@ -4,10 +4,6 @@ Ola meu nome é Victor, sou um desenvolvedor front-end, tenho pouco mais de 1 an
 
 👩‍💻 Trabalho atualmente na Agenda Gatilho
 
-😄 Pronomes: Ele/Dele
-
-⚡️ Algumas Curiosidades: Trabalhava com modelagem 3D antes de programação, já caminhei do Rio de janeiro até São Paulo e cultivo um mini ódio por desenvolvimento Mobile.
-
 ---
 
 ### 🤹 Habilidades
