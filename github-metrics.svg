@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 365kb of code in 58 edited files across 32 commits</small>
+                <small>estimation from 452kb of code in 60 edited files across 33 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1106,7 +1106,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lkt226/pixelite</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Comprime as imagens de um diretório especificado, cria um backup fora do diretorio com as imagens originais e substitui as imagens do diretório especificado pelas imagens comprimidas, adicionando tambem uma versão WEBP da imagem</div>
