@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 2.10mb of code in 501 edited files across 62 commits</small>
+                <small>estimation from 2.10mb of code in 503 edited files across 63 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.09005032063507" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="217.09005032063507" y="0" width="132.27663632895525" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="349.36668664959035" y="0" width="77.55830472141987" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.9249913710102" y="0" width="10.255091103965702" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="437.18008247497596" y="0" width="8.856213780950824" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="446.03629625592674" y="0" width="7.579341290170218" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.61563754609693" y="0" width="5.409995095100551" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.0256326411975" y="0" width="0.9743673588024779" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.72311670976893" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="216.72311670976893" y="0" width="132.0530574789355" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="348.77617418870443" y="0" width="77.4272128138817" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="426.20338700258617" y="0" width="10.237757570701593" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="436.4411445732877" y="0" width="8.84124468173855" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="445.28238925502626" y="0" width="7.566530407941936" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.8489196629682" y="0" width="6.178359889880704" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.0272795528489" y="0" width="0.9727204471510803" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1113,7 +1113,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lkt226/get-value</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Faz um calculo para ajudar na precificação de serviços, ele usa o custo da empresa o numero de funcionários, e as horas trabalhadas para gerar o valor da sua hora, e com o valor da sua hora, o tempo estimado do serviço e a margem de lucro, ele resulta no valor do serviço com a possibilidade de colocar serviços adicionais.</div>
