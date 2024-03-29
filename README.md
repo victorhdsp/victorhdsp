@@ -1,7 +1,7 @@
 <h1 align="center">Ola 👋, eu sou Victor Hygo</h1>
 
-<h3 align="center">Entre em contato:</h3>
-<p align="center">
+<h3 align="left">Entre em contato:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/victorhdsp" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorhdsp" height="30" width="40" />
   </a>
@@ -11,8 +11,8 @@
 </p>
 <hr>
 
-<h3 align="center">Linguagem:</h3>
-<p align="center"> 
+<h3 align="left">Linguagem:</h3>
+<p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
@@ -21,8 +21,8 @@
   </a> 
 </p>
 
-<h3 align="center">Front-end:</h3>
-<p align="center"> 
+<h3 align="left">Front-end:</h3>
+<p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -58,8 +58,8 @@
   </a> 
 </p>
 
-<h3 align="center">Backend:</h3>
-<p align="center"> 
+<h3 align="left">Backend:</h3>
+<p align="left"> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a> 
@@ -74,15 +74,15 @@
   </a> 
 </p>
 
-<h3 align="center">Mobile:</h3>
-<p align="center">
+<h3 align="left">Mobile:</h3>
+<p align="left">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>
 </p>
 
-<h3 align="center">Banco de dados:</h3>
-<p align="center">
+<h3 align="left">Banco de dados:</h3>
+<p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
@@ -97,15 +97,15 @@
   </a> 
 </p>
 
-<h3 align="center">DevOps:</h3>
-<p align="center"> 
+<h3 align="left">DevOps:</h3>
+<p align="left"> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
 
-<h3 align="center">Ferramentas:</h3>
-<p align="center">
+<h3 align="left">Ferramentas:</h3>
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
@@ -125,4 +125,3 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a> 
 </p>
-<hr>
