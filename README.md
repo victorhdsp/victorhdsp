@@ -1,4 +1,4 @@
-<h1 align="center">Ola 👋, eu sou Victor Hygo</h1>
+<h1 align="center">Ola 👋, eu sou Victor Hugo</h1>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
