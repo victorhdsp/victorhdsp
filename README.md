@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=victorhdsp&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Victor Hugo!
 <p align="left"> 
@@ -38,14 +38,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=victorhdsp&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhdsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -53,7 +53,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victorhdsp&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
