@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: **Javascript, Typescript, HTML, CSS, SASS, Jest, C e PHP.**
+  🦄 Tecnologias: Javascript, Typescript, HTML, CSS, SASS, Jest, C e PHP.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Postman, Figma, Storybook, TailwindCSS.**
+  💼 Ferramentas: Postman, Figma, Storybook, TailwindCSS.
 </p>
 
 <p align="left">
