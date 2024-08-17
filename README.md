@@ -19,15 +19,15 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:victorhugods.pereira@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorhugods.pereira@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/victorhdsp/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhdsp/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5521989306866" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521989306866" alt="WhatsApp"/></a>
-  <a href="#" title="Meu site">
+  <a href="https://www.victor-hugo.dev" title="Meu site">
   <img src="https://img.shields.io/badge/-Site-4d4d4d?style=flat-square&labelColor=4d4d4d&logoColor=4d4d4d&link=https://www.victor-hugo.dev" alt="Meu site"/></a>
-  <a href="#" title="Instagram">
+  <a href="https://www.instagram.com/lkt226/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lkt226/" alt="Instagram"/></a>
 </p>
 
