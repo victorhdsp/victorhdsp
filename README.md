@@ -1,34 +1,22 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=victorhdsp&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
 ### Olá, meu nome é Victor Hugo!
-<p align="left"> 
-  Sou um desenvolvedor fullstack muito curioso que está sempre aprendendo e buscando coisas novas,
-  desenvolvo em várias stacks mas meu foco é Typescript pela facilidade de acesso, deploy e versatilidade.
+<p> 
+  Sou um Desenvolvedor Full Stack apaixonado por transformar ideias complexas em soluções de software eficientes, escaláveis e inteligentes. Com uma base sólida no ecossistema JavaScript (TypeScript, React, Node.js) e versatilidade em outras tecnologias como Go e Python, meu foco é criar produtos que não apenas funcionam, mas que geram valor real para o negócio e para o usuário final.
 </p>
 
-<p align="left">
-  🦄 Tecnologias: Javascript, Typescript, HTML, CSS, SASS, Jest, C e PHP.
-</p>
 
-<p align="left">
-  💼 Ferramentas: Postman, Figma, Storybook, TailwindCSS.
-</p>
-
-<p align="left">
+<p>
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
+<p >
   <a href="mailto:victorhugods.pereira@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victorhugods.pereira@gmail.com" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/victorhdsp/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhdsp/" alt="LinkedIn"/></a>
   <a href="https://api.whatsapp.com/send?phone=5521989306866" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521989306866" alt="WhatsApp"/></a>
-  <a href="https://www.victor-hugo.dev" title="Meu site">
+  <a href="https://www.victorhdsp.com" title="Meu site">
   <img src="https://img.shields.io/badge/-Site-4d4d4d?style=flat-square&labelColor=4d4d4d&logoColor=4d4d4d&link=https://www.victor-hugo.dev" alt="Meu site"/></a>
-  <a href="https://www.instagram.com/lkt226/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lkt226/" alt="Instagram"/></a>
 </p>
 
 ### ⚙️ GitHub Analytics
